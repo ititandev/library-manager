@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Addbook.png</file>
+        <file>images/Close.png</file>
+        <file>images/Edit.png</file>
+        <file>images/search.png</file>
+        <file>images/star.png</file>
+        <file>images/deleteBook.png</file>
+        <file>images/addUser.ico</file>
+        <file>images/deleteUser.ico</file>
+        <file>images/editUser.ico</file>
+        <file>images/user_lock.png</file>
+        <file>images/LibPro.ico</file>
+        <file>libpro.ico</file>
+        <file>images/vote.png</file>
+        <file>images/exit.png</file>
+        <file>images/more.png</file>
+        <file>images/addBook.png</file>
+        <file>images/editBook.png</file>
+        <file>images/deleteRecord.png</file>
+        <file>images/returnBook.png</file>
+        <file>images/user.png</file>
+        <file>images/search2.png</file>
+        <file>images/book.png</file>
+        <file>images/sendReq.png</file>
+        <file>images/bin.ico</file>
+        <file>images/delete cart.png</file>
+        <file>images/bookBorrow.png</file>
+        <file>images/cart.png</file>
+        <file>images/hisBor.png</file>
+        <file>images/booktick.png</file>
+        <file>images/setting.png</file>
+        <file>images/settingCheck.png</file>
+        <file>images/mail send.png</file>
+        <file>images/mail delete.png</file>
+        <file>images/mail check.png</file>
+        <file>images/mail.png</file>
+        <file>images/support.png</file>
+        <file>images/request.png</file>
+        <file>images/feedback.png</file>
+        <file>images/signout.png</file>
+        <file>images/history.png</file>
+        <file>images/extern.png</file>
+    </qresource>
+</RCC>
